@@ -1,0 +1,42 @@
+  .wallet-group {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+
+    p {
+      color: white;
+      font-size: 18px;
+    }
+
+    // .connect-wallet-button {
+    //   position: absolute;
+    //   top: 50px;
+    //   left: calc(50% - 50px);
+    // }
+  }
+
+  @media (max-width: 1200px) {
+    .responsive-nav-items {
+      height: 115px !important;
+      align-items: flex-start !important;
+
+      .emberLogo,
+      button {
+        margin-top: 15px;
+      }
+
+
+    }
+  }
+
+  .sortIcon {
+    &:hover path {
+      fill: rgb(208, 208, 208);
+    }
+  }
+
+  @media (max-width: 650px) {
+    .headerItemsContainer {
+      padding: 5px !important;
+    }
+  }
