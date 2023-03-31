@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[574],{5574:function(e,t,n){n.r(t);n(2791);var s=n(184);t.default=function(){return(0,s.jsx)("div",{children:"Sorry, the page you visited does not exist."})}}}]);
+//# sourceMappingURL=574.8c18618a.chunk.js.map
